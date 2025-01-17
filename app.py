@@ -41,7 +41,7 @@ st.header("CalorieLens: The Ultimate Calorie Tracker")
 uploaded_file=st.file_uploader("Please upload the image",type=['jpeg','png','jpg'])
 if uploaded_file is not None:
     img= Image.open(uploaded_file)
-    st.image(img,caption="Uploaded Image",use_column_width=True)
+    st.image(img,caption="Uploaded Image",use_container_width=True)
 
 prompt='''You are a food and nutrition assistant. Analyze the given image of food to identify the items present, estimate portion sizes, and calculate the approximate calorie count. Respond with a structured breakdown of nutritional information for each item and a total summary. Ensure your output is formatted as shown below:
 Detected Food Items:  
