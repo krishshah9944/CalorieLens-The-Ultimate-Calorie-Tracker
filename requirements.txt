@@ -24,7 +24,7 @@ arxiv
 wikipedia
 mysql-connector-python
 SQLAlchemy
-validators==0.28.1
+validators
 youtube_transcript_api
 unstructured
 pytube
