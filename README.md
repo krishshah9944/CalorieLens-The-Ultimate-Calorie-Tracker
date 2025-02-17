@@ -11,6 +11,10 @@ CalorieLens is an AI-powered calorie tracker that analyzes food images to estima
 - 🤖 **Powered by Google Gemini AI**: Utilizes **Google's Gemini 1.5-Flash** model for accurate food recognition and analysis.
 - ⚡ **Fast & User-Friendly Interface**: Built with Streamlit for a seamless user experience.
 
+## 🌍 Live Demo
+
+Try out the application here: [CalorieLens Demo](https://calorielens-the-ultimate-calorie-tracker.streamlit.app/)
+
 ## 🛠 Tech Stack
 
 - **Frontend**: Streamlit
@@ -65,10 +69,6 @@ Alternatively, you can configure the key in your environment variables.
 ```bash
 streamlit run app.py
 ```
-
-## 🌍 Live Demo
-
-Try out the application here: [CalorieLens Demo](https://calorielens-the-ultimate-calorie-tracker.streamlit.app/)
 
 ## 📌 Usage
 
