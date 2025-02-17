@@ -20,14 +20,6 @@ openai
 langchain-groq
 duckduckgo_search
 pymupdf
-arxiv
-wikipedia
-mysql-connector-python
-SQLAlchemy
-validators
-youtube_transcript_api
-unstructured
-pytube
 numexpr
 huggingface_hub
 langchain-ollama
